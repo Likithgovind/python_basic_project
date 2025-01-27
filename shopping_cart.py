@@ -10,7 +10,7 @@ while True:
         foods.append(food)
         price=input("enter the prize: ₹")
         prices.append(price)
-
+#result
 print("-----your cart-----")
 for i in foods:
     print(i,end=" ")
