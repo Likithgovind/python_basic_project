@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment=".gitignore was deleted" />
+    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="weight convertor was created">
+      <change afterPath="$PROJECT_DIR$/shopping_cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +33,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.shopping_cart.executor": "Run",
     "Python.timer.executor": "Run",
+    "Python.weight_calculater.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -109,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737992916912</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="weight convertor was created">
+      <option name="closed" value="true" />
+      <created>1737993127788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737993127788</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +132,7 @@
     <MESSAGE value="TIMER CREATED" />
     <MESSAGE value=".gitignore was created" />
     <MESSAGE value=".gitignore was deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore was deleted" />
+    <MESSAGE value="weight convertor was created" />
+    <option name="LAST_COMMIT_MESSAGE" value="weight convertor was created" />
   </component>
 </project>
