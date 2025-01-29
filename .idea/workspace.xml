@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="weight convertor was created">
-      <change afterPath="$PROJECT_DIR$/shopping_cart.py" afterDir="false" />
+    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="shopping cart was created">
+      <change afterPath="$PROJECT_DIR$/quiz game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +33,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.practice.executor": "Run",
+    "Python.quiz game.executor": "Run",
     "Python.shopping_cart.executor": "Run",
     "Python.timer.executor": "Run",
     "Python.weight_calculater.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/LIKITH G/PycharmProjects/python practice/practice.py",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -122,17 +125,33 @@
       <option name="project" value="LOCAL" />
       <updated>1737993127788</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="shopping cart was created">
+      <option name="closed" value="true" />
+      <created>1737996906007</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737996906007</updated>
+    </task>
+    <task id="LOCAL-00010" summary="shopping cart was created">
+      <option name="closed" value="true" />
+      <created>1737997030876</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737997030876</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="shopping cart was created" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="initial commi" />
     <MESSAGE value="TIMER CREATED" />
     <MESSAGE value=".gitignore was created" />
     <MESSAGE value=".gitignore was deleted" />
     <MESSAGE value="weight convertor was created" />
-    <option name="LAST_COMMIT_MESSAGE" value="weight convertor was created" />
+    <MESSAGE value="shopping cart was created" />
+    <option name="LAST_COMMIT_MESSAGE" value="shopping cart was created" />
   </component>
 </project>
