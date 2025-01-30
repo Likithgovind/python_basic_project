@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="shopping cart was created">
-      <change afterPath="$PROJECT_DIR$/quiz game.py" afterDir="false" />
+    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="quiz game was created">
+      <change afterPath="$PROJECT_DIR$/hotel menu card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number to word.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.number to word.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.quiz game.executor": "Run",
     "Python.shopping_cart.executor": "Run",
@@ -141,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737997030876</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="quiz game was created">
+      <option name="closed" value="true" />
+      <created>1738164632772</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738164632772</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +162,7 @@
     <MESSAGE value=".gitignore was deleted" />
     <MESSAGE value="weight convertor was created" />
     <MESSAGE value="shopping cart was created" />
-    <option name="LAST_COMMIT_MESSAGE" value="shopping cart was created" />
+    <MESSAGE value="quiz game was created" />
+    <option name="LAST_COMMIT_MESSAGE" value="quiz game was created" />
   </component>
 </project>

@@ -1,0 +1,2 @@
+#hotel menu card
+menu={""}
