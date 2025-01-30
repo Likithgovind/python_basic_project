@@ -1,4 +1,4 @@
-#convertibg number to word less than 1000
+#convertig number to word less than 1000
 numbers=int(input("enter the number: "))
 
 ones=["","one","two","three","four","five","six","seven","eight","nine"]
