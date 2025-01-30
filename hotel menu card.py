@@ -1,2 +1,0 @@
-#hotel menu card
-menu={""}
