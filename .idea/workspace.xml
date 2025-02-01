@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="converting number to word less than 1000 was created">
-      <change afterPath="$PROJECT_DIR$/Snack Bar menu.py" afterDir="false" />
+    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="Snack bar is modified">
+      <change afterPath="$PROJECT_DIR$/roman to numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel menu card.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     "Python.number to word.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.quiz game.executor": "Run",
+    "Python.roman to numbers.executor": "Run",
     "Python.shopping_cart.executor": "Run",
     "Python.timer.executor": "Run",
     "Python.weight_calculater.executor": "Run",
@@ -177,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738242294845</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Snack bar is created">
+      <option name="closed" value="true" />
+      <created>1738252099170</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738252099170</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,6 +199,7 @@
     <MESSAGE value="quiz game was created" />
     <MESSAGE value="convertibg number to word less than 1000 was created" />
     <MESSAGE value="converting number to word less than 1000 was created" />
-    <option name="LAST_COMMIT_MESSAGE" value="converting number to word less than 1000 was created" />
+    <MESSAGE value="Snack bar is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snack bar is created" />
   </component>
 </project>
