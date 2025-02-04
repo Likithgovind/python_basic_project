@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="Snack bar is modified">
-      <change afterPath="$PROJECT_DIR$/roman to numbers.py" afterDir="false" />
+    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="roman to number is created">
+      <change afterPath="$PROJECT_DIR$/number guessing game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
   "keyToString": {
     "Python.Snack Bar menu.executor": "Run",
     "Python.hotel menu card.executor": "Run",
+    "Python.number guessing game.executor": "Run",
     "Python.number to word.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.quiz game.executor": "Run",
@@ -185,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738252099170</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="roman to number is created">
+      <option name="closed" value="true" />
+      <created>1738386984533</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738386984533</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -200,6 +209,7 @@
     <MESSAGE value="convertibg number to word less than 1000 was created" />
     <MESSAGE value="converting number to word less than 1000 was created" />
     <MESSAGE value="Snack bar is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snack bar is created" />
+    <MESSAGE value="roman to number is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="roman to number is created" />
   </component>
 </project>
