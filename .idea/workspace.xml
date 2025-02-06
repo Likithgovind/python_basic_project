@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="number guessing game is created">
-      <change afterPath="$PROJECT_DIR$/dice program.py" afterDir="false" />
+    <list default="true" id="4c4d8cb6-0edf-453e-aaf6-96491a6b8f1c" name="Changes" comment="rolling dice  is created">
+      <change afterPath="$PROJECT_DIR$/encrypt and decrypt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
   "keyToString": {
     "Python.Snack Bar menu.executor": "Run",
     "Python.dice program.executor": "Run",
+    "Python.encrypt and decrypt.executor": "Run",
     "Python.hotel menu card.executor": "Run",
     "Python.number guessing game.executor": "Run",
     "Python.number to word.executor": "Run",
@@ -47,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/LIKITH G/PycharmProjects/python practice/practice.py",
+    "last_opened_file_path": "C:/Users/LIKITH G/PycharmProjects/PythonProject",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -203,7 +204,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738674333924</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="rolling dice  is created">
+      <option name="closed" value="true" />
+      <created>1738772482297</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1738772482297</updated>
+    </task>
+    <task id="LOCAL-00019" summary="rolling dice  is created">
+      <option name="closed" value="true" />
+      <created>1738772604227</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1738772604227</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +237,7 @@
     <MESSAGE value="Snack bar is created" />
     <MESSAGE value="roman to number is created" />
     <MESSAGE value="number guessing game is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="number guessing game is created" />
+    <MESSAGE value="rolling dice  is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="rolling dice  is created" />
   </component>
 </project>
