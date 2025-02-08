@@ -4,7 +4,7 @@ even_number=0
 odd_number=0
 total=0
 
-card_number=input("enter the credit card number: ")
+card_number=input("enter the your credit card number: ")
 card_number=card_number.replace("-","")
 card_number=card_number.replace(" ","")
 card_number=card_number[::-1]
